@@ -72,7 +72,7 @@ const FirstUser = () => {
               </p>
               <p className="grid grid-cols-2 w-full">
                 <p className="md:w-[50%] ">Payment Date :</p>{" "}
-                <span className=" ">12 May 2024</span>
+                <span className=" ">11 May 2024</span>
               </p>
               <p className="grid grid-cols-2 w-full">
                 <p className="md:w-[50%] ">Payment by :</p>{" "}

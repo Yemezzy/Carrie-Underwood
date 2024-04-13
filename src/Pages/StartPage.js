@@ -229,7 +229,7 @@ const StartPage = () => {
             </div>
           </div>
 
-          <div className="text-xs md:mt-0 mt-3   text-white flex  gap-5">
+          <div className="md:text-xs text-[10px] md:mt-0 mt-3   text-white flex  gap-5">
             <a
               href="https://privacy.umusic.com/"
               className="hover:text-black transition-all"
