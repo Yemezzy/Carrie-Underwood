@@ -1,38 +1,27 @@
-.App {
-  text-align: center;
+.bbn{
+    position: fixed;
+  right: 0;
+  bottom: 0;
+  top: 13%;
+  min-width: 100%;
+  min-height: 100%;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.lla{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.bb{
+  background:url(https://www.carrieunderwoodofficial.com/wp-content/themes/carrieunderwood1_carrieunderwood1/dist/images/bg-media.jpg?v=5);
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: white;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.content {
+  position: fixed;
+  top: 0;
+  height: 100%;
+  /* background: rgba(0, 0, 0, 0.5); */
+  color: #f1f1f1;
+  width: 100%;
+  /* padding: 20px; */
 }
